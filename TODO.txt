@@ -1,0 +1,1 @@
+﻿Stream that open for data included or from URI
